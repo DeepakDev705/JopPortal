@@ -1,5 +1,3 @@
-Here’s a professional and well-structured README for your GitHub repository:
-
 ---
 
 # JobPortal
